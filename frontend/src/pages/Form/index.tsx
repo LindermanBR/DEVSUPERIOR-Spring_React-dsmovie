@@ -3,7 +3,7 @@ import './styles.css'
 function Form() {
     const movie = {
         id: 1,
-        image: "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
+        image: "https://mixdeseries.com.br/wp-content/uploads/2019/12/The-Witcher-2-temporada.jpg",
         title: "The Witcher",
         count: 2,
         score: 4.5
